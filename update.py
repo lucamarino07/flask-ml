@@ -2,6 +2,7 @@ import pickle
 import sqlite3
 import numpy as np
 import os
+import datetime
 
 from vectorizer import vect
 
