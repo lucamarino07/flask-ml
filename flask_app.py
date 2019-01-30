@@ -7,6 +7,8 @@ import numpy as np
 from vectorizer import vect
 from update import update_model
 
+# commento di prova
+
 app = Flask(__name__)
 
 ###### Prepariamo il classificatore
